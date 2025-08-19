@@ -1,17 +1,6 @@
 <div align="center"> <h1 size="7">
     🎉 Helix AI: A Revolutionary AI-Powered Virtual Assistant 🎉
 </h1> </div>
-<br/>
----
-
-<div align="center">
-  <a  alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45" alt="NX">
-  </a>
-  Nx Monorepo
-</div>
-<br/>
-
 ---
 
 Helix AI is an innovative AI-powered virtual assistant meticulously crafted to redefine interconnectivity in the digital landscape.
