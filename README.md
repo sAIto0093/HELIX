@@ -2,18 +2,6 @@
     🎉 Helix AI: A Revolutionary AI-Powered Virtual Assistant 🎉
 </h1> </div>
 <br/>
-<br/>
-<div align="center">
-    <a href="https://helixaibot.com/" target="blank">
-        <img
-            src="docs/images/helix/Favicon-01.png"
-            width="350"
-            alt="Helix Ai Logo"
-        />
-    </a>
-</div>
-<br/>
-
 ---
 
 <div align="center">
